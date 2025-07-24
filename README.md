@@ -11,7 +11,3 @@
 ---
 Check out my [personal website](https://jacobmartinage.com) for more on my skills and projects
 
-<div align = 'center'>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartinage&hide=ShaderLab,HLSL&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-</div>

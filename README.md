@@ -13,5 +13,6 @@ Check out my [personal website](https://jacobmartinage.com) for more on my skill
 
 <div align = 'center'>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JacobMartinage&theme=gruvbox&border_radius=6.3" alt="GitHub Streak" /></a>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobmartinage&hide=ShaderLab,HLSL&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 </div>
